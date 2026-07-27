@@ -14,7 +14,8 @@ const suiteLinks = [
   ["Rizoma", "https://rizoma.tecnosocialismo.com", "RZ"], ["Cloud", "https://cloud.tecnosocialismo.com", "CL"],
   ["Mail", "https://mail.tecnosocialismo.com", "ML"], ["Video", "https://video.tecnosocialismo.com", "VD"],
   ["Social", "https://social.tecnosocialismo.com", "SO"], ["Sport", "https://sport.tecnosocialismo.com", "FT"],
-  ["Market", "https://market.tecnosocialismo.com", "MK"], ["Messaggi", "https://messaggi.tecnosocialismo.com", "MS"],
+  ["Market", "https://market.tecnosocialismo.com", "MK"], ["Azienda", "https://azienda.tecnosocialismo.com", "AZ"],
+  ["Messaggi", "https://messaggi.tecnosocialismo.com", "MS"],
   ["Militant", "https://militant.tecnosocialismo.com", "MT"],
 ] as const;
 
