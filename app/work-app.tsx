@@ -16,6 +16,7 @@ const suiteLinks = [
   ["Social", "https://social.tecnosocialismo.com", "SO"], ["Sport", "https://sport.tecnosocialismo.com", "FT"],
   ["Market", "https://market.tecnosocialismo.com", "MK"], ["Azienda", "https://azienda.tecnosocialismo.com", "AZ"],
   ["Servizi", "https://servizi.tecnosocialismo.com", "SV"],
+  ["Biblioteca", "https://biblioteca.tecnosocialismo.com", "BI"],
   ["Messaggi", "https://messaggi.tecnosocialismo.com", "MS"],
   ["Militant", "https://militant.tecnosocialismo.com", "MT"],
 ] as const;
